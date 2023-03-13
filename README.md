@@ -1,4 +1,3 @@
-# ITI-Final-Project
 
 ## Project Overview
   Deploy an application on Kubernetes cluster on AWS using CI/CD jenkins pipeline useing some steps to perform the project: Implement secure Kubernetes Cluster on AWS, Deploy and configure Jenkins on the cluster and Deploy the application on Kubernetes useing Jenkins pipeline.
