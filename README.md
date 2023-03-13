@@ -28,7 +28,7 @@
     
     - Clone the repo:
       ```
-      git clone https://github.com/NathanEid/ITI-Final-Project.git
+      git clone https://github.com/MohamedAhmedAbdo/Simple-Devops-Project-for-CI-CD-.git
       ```
     - Terraform Commands:
       ```
